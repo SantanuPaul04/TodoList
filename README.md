@@ -2,7 +2,7 @@
 
 A simple and intuitive ToDo List application built with React. This app enables users to add and delete tasks, helping them manage their Daily Task efficiently.
 
-## See The (App)(link)
+## See The [App](link)
 
 ## Features 🌟
 
@@ -11,7 +11,9 @@ A simple and intuitive ToDo List application built with React. This app enables 
 
 ## Screenshots 📸
 
-![ToDo List App Screenshot]()
+![todo](https://github.com/user-attachments/assets/9825625c-5349-4b8a-8454-039d11774bee)
+![todos](https://github.com/user-attachments/assets/cd2e8f1b-abfe-4941-9d8c-6cb53b3f48ec)
+
 
 ## Technologies Used ⚙️
 
