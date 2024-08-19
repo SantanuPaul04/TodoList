@@ -9,16 +9,18 @@ A simple and intuitive ToDo List application built with React. This app enables 
 - **Add ToDo**: Easily add new tasks to your list.
 - **Delete ToDo**: Remove tasks from your list with a single click.
 
-## Screenshots 📸
-
-![todo](https://github.com/user-attachments/assets/9825625c-5349-4b8a-8454-039d11774bee)
-![todos](https://github.com/user-attachments/assets/cd2e8f1b-abfe-4941-9d8c-6cb53b3f48ec)
-
 
 ## Technologies Used ⚙️
 
 - **React**: A JavaScript library for building user interfaces.
 - **Bootstrap**: For styling the application.
+
+
+
+## Screenshots 📸
+
+![todo](https://github.com/user-attachments/assets/9825625c-5349-4b8a-8454-039d11774bee)
+![todos](https://github.com/user-attachments/assets/cd2e8f1b-abfe-4941-9d8c-6cb53b3f48ec)
 
 
 ## Getting Started 📝
