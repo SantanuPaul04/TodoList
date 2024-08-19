@@ -19,9 +19,18 @@ A simple and intuitive ToDo List application built with React. This app enables 
 - **Bootstrap**: For styling the application.
 
 
+## Getting Started
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+To get a local copy of this project up and running, follow these steps:
 
-### `npm run build` fails to minify
+### Prerequisites
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **Node.js**: Ensure you have Node.js installed. Download it from [nodejs.org](https://nodejs.org/).
+- **npm**: Comes bundled with Node.js. Alternatively, you can use [yarn](https://classic.yarnpkg.com/) for managing packages.
+
+### Installation
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/yourusername/todolist-app.git
