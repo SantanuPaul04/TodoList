@@ -42,4 +42,4 @@ To get a local copy of this project up and running, follow these steps:
 
 ## Contact Me -> paulsantanu968@gmail.com 📩
 
-## <p> `Made with ❤️ by <a href="https://github.com/SantanuPaul04" target="_blank">Santanu Paul`</a></p>
+## <p> `Made with ❤️ by` <a href="https://github.com/SantanuPaul04" target="_blank">Santanu Paul</a></p>
