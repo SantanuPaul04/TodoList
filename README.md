@@ -38,7 +38,7 @@ To get a local copy of this project up and running, follow these steps:
 
    ```bash
    git clone https://github.com/SantanuPaul04/TodoList.git
-
+   ```
 
 ## Contact Me -> paulsantanu968@gmail.com 📩
 
