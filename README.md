@@ -2,7 +2,7 @@
 
 A simple and intuitive ToDo List application built with React. This app enables users to add and delete tasks, helping them manage their Daily Task efficiently.
 
-## See The [App](link)
+## See My App [Here](link) 👀
 
 ## Features 🌟
 
@@ -21,7 +21,7 @@ A simple and intuitive ToDo List application built with React. This app enables 
 - **Bootstrap**: For styling the application.
 
 
-## Getting Started
+## Getting Started 📝
 
 To get a local copy of this project up and running, follow these steps:
 
@@ -32,7 +32,12 @@ To get a local copy of this project up and running, follow these steps:
 
 ### Installation
 
-1. **Clone the Repository**
+ **Clone the Repository**
 
    ```bash
    git clone https://github.com/SantanuPaul04/TodoList.git
+
+
+## Contact Me -> paulsantanu968@gmail.com 📩
+
+## <p> `Made with ❤️ by <a href="https://github.com/SantanuPaul04" target="_blank">Santanu Paul`</a></p>
